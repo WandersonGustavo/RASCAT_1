@@ -45,7 +45,7 @@ public class Cadastro2 extends AppCompatActivity {
             }
         });
 
-        private void criarLongin(){
+        /*private void criarLongin(){
             fbAuth.createUserWithEmailAndPassword(userDB.getEmail(),userDB.getSenha())
             .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                 @Override
@@ -56,7 +56,7 @@ public class Cadastro2 extends AppCompatActivity {
                         Toast.makeText();
                     }
                 }
-            });
+            });*/
         }
 
     }
