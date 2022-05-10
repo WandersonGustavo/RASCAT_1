@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503502527662",
+    "project_id": "rascat-3",
+    "storage_bucket": "rascat-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503502527662:android:2a7b1195f2d7c8188a213f",
+        "android_client_info": {
+          "package_name": "com.example.rascat_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503502527662-n396q3qrv60s113lg4eq0cf9je6rgsu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZH4Xax6pr0hdnplQ68O3bQCw57puxILw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503502527662-n396q3qrv60s113lg4eq0cf9je6rgsu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

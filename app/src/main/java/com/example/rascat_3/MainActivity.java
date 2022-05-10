@@ -17,8 +17,8 @@ import android.widget.Button;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-       /* logar = findViewById(R.id.logar);
-        btCadastro = findViewById(R.id.btCadastro);*/
+      // logar = findViewById(R.id.logar);
+        //btCadastro = findViewById(R.id.btCadastro);
 
         logar.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -36,7 +36,7 @@ import android.widget.Button;
         });
     }
      private void telaCadastar() {
-         startActivity(new Intent( this, Cadastro_2.class));
+         startActivity(new Intent( /*this ,Cadastro_2.class*/));
      }
 
      private void telaLogar() {
